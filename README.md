@@ -1,0 +1,1 @@
+# nemcina-trener
