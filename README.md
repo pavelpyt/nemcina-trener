@@ -14,13 +14,13 @@ Nad stejnou datovou základnou běží víc režimů, protože různým lidem (a
 
 Klasické flashcards se spaced-repetition logikou. Co označíš jako „znal jsem", se odsune; co ne, se vrací častěji. Ovládání i klávesnicí (mezerník otočí, 1/2 hodnotí), protože při rychlém drilu nechceš sahat po myši.
 
-![Kartičky](docs/screenshots/karticky.png)
+![Kartičky](karticky.png)
 
 ### Výběr z možností
 
 Gramatická cvičení s výběrem — pády, předložky, konjunktiv. U každého je vidět úroveň (A1/A2/B1), téma a kolikrát už bylo opakováno. Filtruje se podle úrovně, tématu i „jen k opakování", takže se dá cílit přesně na to, co drhne.
 
-![Výběr z možností](docs/screenshots/vyber.png)
+![Výběr z možností](vyber.png)
 
 ---
 
@@ -36,7 +36,7 @@ To je celý princip, na kterém nástroj stojí: **při přípravě v časovém 
 
 Veškerý procvičovací obsah vzniká z reálných zdrojových materiálů a u každého zůstává odkaz na originál, který jde otevřít. Když si u cvičení nejsi jistý, vrátíš se ke zdroji. Materiály se filtrují podle úrovně a tématu a dají se v nich fulltextově hledat.
 
-![Materiály](docs/screenshots/materialy.png)
+![Materiály](materialy.png)
 
 ---
 
